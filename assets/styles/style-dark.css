@@ -160,7 +160,7 @@ a {
   background-color: #110f10;
 }
 .loading::before {
-  background-image: url(../images/logo_white.svg);
+  background-image: url(../images/zachary-tiki-logo.svg);
 }
 .loading .progress-bar {
   background-color: #110f10;
