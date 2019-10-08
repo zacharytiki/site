@@ -1141,19 +1141,19 @@ iframe {
 
 .logotype {
   display: inline-block;
-  height: 18px;
-  max-height: 48px;
+  height: 120px;
+  max-height: 200px;
   transition: transform 0.4s cubic-bezier(0.72, 0.16, 0.345, 0.875);
 }
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
   .logotype {
     height: auto;
-    max-height: 18px;
+    max-height: 200px;
   }
 }
 @media only screen and (max-width: 580px) {
   .logotype {
-    max-height: 18px;
+    max-height: 120px;
   }
 }
 
