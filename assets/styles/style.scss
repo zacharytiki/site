@@ -1192,7 +1192,7 @@ $height-logo: 18px;
 
 	.logotype__front,
     .btn-link {
-	  transform: translate3d(0,-8rem,0);
+	  transform: translate3d(0,-9rem,0);
 	}
 	
     .logotype__back {
@@ -1235,13 +1235,13 @@ $height-logo: 18px;
     position: absolute;
 	left: 0;
 	top: 0;
-    transform: translate3d(0,-8rem,0);
+    transform: translate3d(0,-9rem,0);
   }
   
   // Navbar change (logo)
   &-change {
     .logotype__back {
-	  transform: translate3d(0, -8rem, 0);
+	  transform: translate3d(0, -9rem, 0);
 	}
     
     .logotype__front {
@@ -1258,7 +1258,7 @@ $height-logo: 18px;
 	  }
     
       .logotype__front {
-	    transform: translate3d(0, -8rem, 0);
+	    transform: translate3d(0, -9rem, 0);
 		
 		@media only screen and (max-width: $small) {
 		  transform: translate3d(0, 0, 0);
