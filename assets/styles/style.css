@@ -1066,7 +1066,7 @@ iframe {
   }
 }
 .navbar.navbar-back .logotype {
-  transform: translate3d(0, -8rem, 0) !important;
+  transform: translate3d(0, -9rem, 0) !important;
 }
 @media only screen and (max-height: 320px) {
   .open .navbar {
@@ -1081,7 +1081,7 @@ iframe {
 }
 .open .navbar .logotype__front,
 .open .navbar .btn-link {
-  transform: translate3d(0, -8rem, 0);
+  transform: translate3d(0, -9rem, 0);
 }
 .open .navbar .logotype__back {
   transform: translate3d(0, 0, 0);
