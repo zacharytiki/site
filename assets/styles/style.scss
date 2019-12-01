@@ -1175,7 +1175,7 @@ $height-logo: 18px;
   // Navbar back
   &.navbar-back {
   	.logotype {
-	  transform: translate3d(0,-8rem,0)!important;
+	  transform: translate3d(0,-9rem,0)!important;
 	}
   }
 	
@@ -1273,7 +1273,7 @@ $height-logo: 18px;
   display: inline-block;
   height: $height-logo;
   max-height: 48px;
-  transition: transform .4s cubic-bezier(.72,.16,.345,.875);
+  transition: transform .8s cubic-bezier(.72,.16,.345,.875);
   
   @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     height: auto;
