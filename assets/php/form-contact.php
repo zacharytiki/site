@@ -74,8 +74,8 @@ $body = "
 $mail = new PHPMailer(true);
 
 //Recipients
-$mail->setFrom('no-reply@mydomain.com', 'Company Name');  // which email will be sent from
-$mail->addAddress('stevewaynezach@gmail.com ', 'Zachary Tiki');  // who needs to send a letter
+$mail->setFrom('stevewaynezach@gmail.com', 'Zachary Tiki');  // which email will be sent from
+$mail->addAddress('stevewaynezach@gmail.com', 'Zachary Tiki');  // who needs to send a letter
 
 // Content
 $mail->CharSet = 'UTF-8';
